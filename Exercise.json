@@ -2,31 +2,31 @@
 	"Exercises":
 	[
 		{"exerciseName": "GetRandomLegsExercise()",
-		 "exerciseReps":"5",
-		 "exerciseSets":"5",
+		 "exerciseReps":5,
+		 "exerciseSets":5,
 		 "exercisePartDetail":"Quads, Hamstrings, Glutes, Calfs",
-		 "exerisePart":"Legs",
+		 "exercisePart":"Legs",
 		 "HomeImg":"URL"
 		},
 		{"exerciseName": "GetRandomArmsExercise()",
-		 "exerciseReps":"5",
-		 "exerciseSets":"5",
+		 "exerciseReps":5,
+		 "exerciseSets":5,
 		 "exercisePartDetail":"Biceps, Triceps, Fore Arms",
-		 "exerisePart":"Arms",
+		 "exercisePart":"Arms",
 		 "HomeImg":"URL"
 		},
 		 {"exerciseName": "GetRandomChestExercise()",
-		 "exerciseReps":"5",
-		 "exerciseSets":"5",
+		 "exerciseReps":5,
+		 "exerciseSets":5,
 		 "exercisePartDetail":"Upper, Middle, Lower",
-		 "exerisePart":"Chest",
+		 "exercisePart":"Chest",
 		 "HomeImg":"URL"
 		},
 		{"exerciseName": "GetRandomBackExercise()",
-		 "exerciseReps":"5",
-		 "exerciseSets":"5",
+		 "exerciseReps":5,
+		 "exerciseSets":5,
 		 "exercisePartDetail":"Lats, rear Delts, Romboids, Traps",
-		 "exerisePart":"Back",
+		 "exercisePart":"Back",
 		 "HomeImg":"URL"
 		}
 	]
