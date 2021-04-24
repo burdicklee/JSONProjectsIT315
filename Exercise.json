@@ -6,7 +6,7 @@
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Quads, Hamstrings, Glutes, Calfs",
 		 "exercisePart":"Legs",
-		 "HomeImg":"URL"
+		 "HomeImg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/1123_Muscles_of_the_Leg_that_Move_the_Foot_and_Toes_b.png"
 		},
 		{"exerciseName": "GetRandomArmsExercise()",
 		 "exerciseReps":5,
@@ -20,14 +20,14 @@
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Upper, Middle, Lower",
 		 "exercisePart":"Chest",
-		 "HomeImg":"URL"
+		 "HomeImg":"https://baajfitness.files.wordpress.com/2018/10/pectoral-muscles.jpg?w=660"
 		},
 		{"exerciseName": "GetRandomBackExercise()",
 		 "exerciseReps":5,
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Lats, rear Delts, Romboids, Traps",
 		 "exercisePart":"Back",
-		 "HomeImg":"URL"
+		 "HomeImg":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Nuchal_ligament.PNG"
 		}
 	]
 }
