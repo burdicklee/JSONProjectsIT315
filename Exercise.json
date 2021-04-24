@@ -13,7 +13,7 @@
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Biceps, Triceps, Fore Arms",
 		 "exercisePart":"Arms",
-		 "HomeImg":"URL"
+		 "HomeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/ArmMuscle.png"
 		},
 		 {"exerciseName": "GetRandomChestExercise()",
 		 "exerciseReps":5,
