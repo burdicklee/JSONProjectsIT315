@@ -6,28 +6,28 @@
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Quads, Hamstrings, Glutes, Calfs",
 		 "exercisePart":"Legs",
-		 "HomeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Legs.png"
+		 "homeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Legs.png"
 		},
 		{"exerciseName": "GetRandomArmsExercise()",
 		 "exerciseReps":5,
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Biceps, Triceps, Fore Arms",
 		 "exercisePart":"Arms",
-		 "HomeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/ArmMuscle.png"
+		 "homeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/ArmMuscle.png"
 		},
 		 {"exerciseName": "GetRandomChestExercise()",
 		 "exerciseReps":5,
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Upper, Middle, Lower",
 		 "exercisePart":"Chest",
-		 "HomeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Chest.jpg"
+		 "homeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Chest.jpg"
 		},
 		{"exerciseName": "GetRandomBackExercise()",
 		 "exerciseReps":5,
 		 "exerciseSets":5,
 		 "exercisePartDetail":"Lats, rear Delts, Romboids, Traps",
 		 "exercisePart":"Back",
-		 "HomeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Back.png"
+		 "homeImg":"https://raw.githubusercontent.com/burdicklee/JSONProjectsIT315/master/Back.png"
 		}
 	]
 }
